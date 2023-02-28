@@ -1,0 +1,17 @@
+.card{
+    height:310px;
+    width:26%;
+    background-color:white;
+    color:black;
+    float:left;
+    padding: 20px; 
+    margin: 15px 22px;
+    border-radius: 20px 20px;
+    box-shadow: 3px 5px 6px 3px rgb(207, 200, 200);
+    font-size: 16px;
+
+}
+span{
+    color:navy;
+    font-weight: bold;
+}
